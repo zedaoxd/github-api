@@ -1,0 +1,8 @@
+.b-buttom,
+.b-buttom:hover {
+    color: #FFF;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    border-radius: 4px;
+}

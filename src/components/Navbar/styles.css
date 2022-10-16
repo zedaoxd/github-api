@@ -1,0 +1,14 @@
+.main-nav {
+    height: 62px;
+}
+
+.main-nav a {
+    text-decoration: none;
+}
+
+.main-nav span {
+    color: #FFF;
+    font-weight: 500;
+    padding: 0;
+}
+

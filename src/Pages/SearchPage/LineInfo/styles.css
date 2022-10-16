@@ -1,0 +1,16 @@
+.l-info {
+    height: 40px;
+    background-color: #FFF;
+    border: 1px solid #d9d9d9;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    margin: 0 0 5px 0;
+}
+
+.l-info a {
+    text-decoration: none;
+}
+
+
